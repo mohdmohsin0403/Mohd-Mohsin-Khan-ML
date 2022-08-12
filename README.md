@@ -59,3 +59,7 @@ A confusion matrix is defined as thetable that is often used to describe the per
 Understanding how well a machine learning model will perform on unseen data is the main purpose behind working with these evaluation metrics. Metrics like accuracy, precision, recall are good ways to evaluate classification models for balanced datasets, but if the data is imbalanced then other methods like ROC/AUC perform better in evaluating the model performance.
 
 ROC curve isn’t just a single number but it’s a whole curve that provides nuanced details about the behavior of the classifier. It is also hard to quickly compare many ROC curves to each other.
+
+- [Mohd Mohsin Khan](https://github.com/mohdmohsin123)
+- 6388515249
+- [LinkedIn](https://www.linkedin.com/in/mohd-mohsin-khan-1a3167202/)
